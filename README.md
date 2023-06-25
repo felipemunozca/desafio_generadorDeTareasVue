@@ -1,4 +1,9 @@
-# m6_evaluacion_s2
+# Curso Desarrollo de Aplicaciones Front-end Trainee 2023
+
+## Modulo 6 - Desarrollo de Interfaces Interactivas con Framework VUE
+Sesión 2
+
+DRILLING: GENERADOR DE TAREAS
 
 ## Project setup
 ```
